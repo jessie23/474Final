@@ -82,7 +82,11 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #A8ECFF;
+    background: #A8ECFF url("../img/brain.svg");
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: 50% 90%;
+
 }
 
 header .container {
